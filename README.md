@@ -11,6 +11,6 @@ pip install -r requirements.txt
 ```
 
 ## Get Started
-Add your discord authorization token to secret.py
-Customize activity.txt
+Add your discord authorization token to secret.py  
+Customize activity.txt  
 `python3 main.py`
