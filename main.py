@@ -10,7 +10,6 @@ payload = {"custom_status":{
 endpoint = "https://discord.com/api/v9/users/@me/settings"
 
 def main():
-    i = 0
     while True:
         with open("./activity.txt", "r") as r:
             for line in r:
